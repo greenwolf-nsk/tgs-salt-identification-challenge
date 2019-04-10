@@ -1,5 +1,6 @@
 # TGS Salt Identification Challenge solution
-This repository contations solution code for https://www.kaggle.com/c/tgs-salt-identification-challengewww.kaggle.com/c/tgs-salt-identification-challenge
+This repository contatins solution code for https://www.kaggle.com/c/tgs-salt-identification-challengewww.kaggle.com/c/tgs-salt-identification-challenge
+
 This is my first time writing pipeline for deep learning competition, so there might be some non-optimal coding decisions.
 
 ### Data preparation
